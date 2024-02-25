@@ -8,7 +8,7 @@ Skills: Java/ Spring framework/ AWS/ Angular/ Shell/ J-Unit/ Jenkins
 - 📫 How to reach me: shr.saurav002@gmail.com 
 
 
-[<img src='https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png' alt='github' height='40'>](https://github.com/https://github.com/shrsaurav002)  [<img src='https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saurav-shrestha-44b391206//)  
+[<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg' alt='github' height='40'>](https://github.com/https://github.com/shrsaurav002)  [<img src='https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saurav-shrestha-44b391206//)  
 
 
 <!--
